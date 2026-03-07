@@ -58,8 +58,8 @@ The system consists of several key components working together:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/production-vps-setup.git
-   cd production-vps-setup
+   git clone https://github.com/updalla-apshir/self-hosted-vps-devops-stack.git
+   cd self-hosted-vps-devops-stack
    ```
 
 2. Follow the [Setup Guide](./docs/setup-guide.md) to provision your VPS
