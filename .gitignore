@@ -1,0 +1,85 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor directories
+.vscode/
+.idea/
+*.sublime-*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Secrets and credentials
+*.pem
+*.key
+*.crt
+*.csr
+
+# Docker
+docker-compose.override.yml
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# Backup directories
+backups/
+*.backup.tar.gz
+
+# System files
+*.part
+*.crdownload
+
+# Personal notes
+notes/
+私人/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Certbot
+letsencrypt/
+acme.json
+
+# Cloud provider configs (keep if needed, remove sensitive data)
+*.tfstate
+*.tfstate.*
+.terraform/
