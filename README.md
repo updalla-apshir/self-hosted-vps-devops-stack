@@ -10,14 +10,6 @@ This repository documents the complete setup of a production-grade self-hosted i
 
 ![System Architecture](images/architecture.png)
 
-![Dokploy Dashboard](images/dokploy-dashboard.png)
-
-![Dokploy Application Detail](images/dokploy-app-detail.png)
-
-![Dokploy Logs](images/dokploy-logs.png)
-
-![Dokploy Settings](images/dokploy-settings.png)
-
 The system consists of several key components working together:
 
 - **Hetzner VPS**: Cloud infrastructure provider serving as the host
@@ -101,6 +93,15 @@ Example Markdown to add images:
 ## Monitoring Setup
 
 This project includes comprehensive monitoring capabilities:
+
+### Dokploy Deployment
+
+![Dokploy Dashboard](images/dokploy-dashboard.png)
+
+![Dokploy Application Detail](images/dokploy-app-detail.png)
+
+
+![Dokploy Settings](images/dokploy-settings.png)
 
 ### Uptime Monitoring
 

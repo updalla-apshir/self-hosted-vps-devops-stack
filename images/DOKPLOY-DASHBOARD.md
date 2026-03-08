@@ -49,7 +49,6 @@ scrot -u dokploy-dashboard.png
 
 - `dokploy-dashboard.png` - Main dashboard
 - `dokploy-app-detail.png` - Application details
-- `dokploy-logs.png` - Deployment logs
 - `dokploy-settings.png` - Settings page
 
 ## Placeholder
