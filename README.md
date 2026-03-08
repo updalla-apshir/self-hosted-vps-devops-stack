@@ -96,23 +96,31 @@ This project includes comprehensive monitoring capabilities:
 
 ### Dokploy Deployment
 
+Dokploy Dashboard:
 ![Dokploy Dashboard](images/dokploy-dashboard.png)
 
+Dokploy Application Detail:
 ![Dokploy Application Detail](images/dokploy-app-detail.png)
 
 
+
+Dokploy Settings:
 ![Dokploy Settings](images/dokploy-settings.png)
 
 ### Uptime Monitoring
 
 Track service availability with Uptime Kuma:
 
+Uptime Kuma Dashboard:
 ![Uptime Kuma Dashboard](images/uptime-kuma-dashboard.png)
 
+Uptime Kuma Monitor:
 ![Uptime Kuma Monitor](images/uptime-kuma-monitor.png)
 
+Uptime Kuma Status:
 ![Uptime Kuma Status](images/uptime-kuma-status.png)
 
+Uptime Kuma Alerts:
 ![Uptime Kuma Alerts](images/uptime-kuma-alerts.png)
 
 - HTTP/HTTPS endpoint monitoring
@@ -135,12 +143,16 @@ Monitor server performance with Beszel:
 
 Gain insights with Umami:
 
+Umami Analytics Dashboard:
 ![Umami Analytics Dashboard](images/umami-dashboard.png)
 
+Umami Visitors:
 ![Umami Visitors](images/umami-visitors.png)
 
+Umami Behavior:
 ![Umami Behavior](images/umami-behavior.png)
 
+Umami Events:
 ![Umami Events](images/umami-events.png)
 
 - Website traffic analysis
