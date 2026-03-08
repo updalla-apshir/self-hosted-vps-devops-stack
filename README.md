@@ -12,6 +12,12 @@ This repository documents the complete setup of a production-grade self-hosted i
 
 ![Dokploy Dashboard](images/dokploy-dashboard.png)
 
+![Dokploy Application Detail](images/dokploy-app-detail.png)
+
+![Dokploy Logs](images/dokploy-logs.png)
+
+![Dokploy Settings](images/dokploy-settings.png)
+
 The system consists of several key components working together:
 
 - **Hetzner VPS**: Cloud infrastructure provider serving as the host
@@ -99,8 +105,13 @@ This project includes comprehensive monitoring capabilities:
 ### Uptime Monitoring
 
 Track service availability with Uptime Kuma:
+
 ![Uptime Kuma Dashboard](images/uptime-kuma-dashboard.png)
+
 ![Uptime Kuma Monitor](images/uptime-kuma-monitor.png)
+
+![Uptime Kuma Status](images/uptime-kuma-status.png)
+
 ![Uptime Kuma Alerts](images/uptime-kuma-alerts.png)
 
 - HTTP/HTTPS endpoint monitoring
@@ -122,8 +133,13 @@ Monitor server performance with Beszel:
 ### Analytics
 
 Gain insights with Umami:
+
 ![Umami Analytics Dashboard](images/umami-dashboard.png)
+
 ![Umami Visitors](images/umami-visitors.png)
+
+![Umami Behavior](images/umami-behavior.png)
+
 ![Umami Events](images/umami-events.png)
 
 - Website traffic analysis
@@ -164,7 +180,7 @@ production-vps-setup/
 
 ## Contributing
 
-Contributions are welcome! Please read our [contributing guidelines](.github/ISSUE_TEMPLATE.md) before submitting pull requests.
+Contributions are welcome! Please read our [contributing guidelines](./.github/ISSUE_TEMPLATE/) before submitting pull requests.
 
 ## License
 

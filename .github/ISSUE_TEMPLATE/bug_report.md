@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 **Describe the issue:**  
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is. Include what you expected to happen versus what actually happened.
 
 **Expected behavior:**  
 What should happen?
@@ -28,9 +28,17 @@ What actually happens instead?
 
 ## Steps to Reproduce
 
-1. 
-2. 
-3. 
+1. Go to the page or tool where the bug occurs
+2. Perform the action that triggers the bug
+3. Note any buttons, links, or inputs you used
+4. Observe the unexpected behavior
+
+Example:
+1. Log in to the Dokploy dashboard
+2. Navigate to **Applications → MyApp**
+3. Click **Deploy**
+4. Wait for the deployment logs to appear
+5. Observe error: "Failed to pull image"
 
 ---
 
